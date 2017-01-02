@@ -1,0 +1,22 @@
+{
+  "name": "climate-client-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulstefanday/Climate-Client-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulstefanday/Climate-Client-API/issues"
+  },
+  "homepage": "https://github.com/paulstefanday/Climate-Client-API#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
